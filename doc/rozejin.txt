@@ -1,0 +1,26 @@
+*rozejin.txt*    rozejin.nvim
+
+rozejin.nvim is a dark Neovim colorscheme with a #1d2021 background and a
+rosé accent palette inspired by Gruvbox.
+
+COMMANDS                                                *rozejin-commands*
+
+    :Rozejin    Load the rozejin colorscheme.
+
+USAGE                                                      *rozejin-usage*
+
+    :colorscheme rozejin
+
+LUA API                                                  *rozejin-api*
+
+    require("rozejin").setup({
+      transparent = false,
+    })
+
+NOTES                                                    *rozejin-notes*
+
+    rozejin keeps most body text neutral and readable, while using the
+    rosé accent for keywords, visual selections, cursorline numbers, and
+    important interactive UI states.
+
+vim:tw=78:ts=8:noet:ft=help:norl:

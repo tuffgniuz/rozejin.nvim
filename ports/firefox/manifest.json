@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "rozejin",
+  "version": "0.1.0",
+  "description": "A Firefox theme port of the rozejin palette.",
+  "theme": {
+    "colors": {
+      "frame": "#1d2021",
+      "frame_inactive": "#181b1c",
+      "tab_background_text": "#eadfe2",
+      "toolbar": "#202324",
+      "toolbar_text": "#eadfe2",
+      "bookmark_text": "#eadfe2",
+      "toolbar_field": "#242728",
+      "toolbar_field_text": "#eadfe2",
+      "toolbar_field_border": "#43313a",
+      "toolbar_field_border_focus": "#ff9fc0",
+      "toolbar_field_highlight": "#43313a",
+      "toolbar_field_highlight_text": "#eadfe2",
+      "tab_line": "#ff9fc0",
+      "popup": "#242728",
+      "popup_text": "#eadfe2",
+      "popup_border": "#43313a",
+      "sidebar": "#202324",
+      "sidebar_text": "#eadfe2",
+      "sidebar_border": "#353039",
+      "ntp_background": "#1d2021",
+      "ntp_text": "#eadfe2",
+      "icons": "#c8b7bb",
+      "icons_attention": "#de6f8f"
+    }
+  }
+}
