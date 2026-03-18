@@ -4,10 +4,11 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tuffgniuz/rozejin.nvim?style=for-the-badge&labelColor=%23181926&color=%23eed49f)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuffgniuz/rozejin.nvim?style=for-the-badge&labelColor=%23181926&color=%23a6da95)
-Inspired by Goku Black’s Super Saiyan Rosé form, this theme evokes a lethal elegance that balances ashen, silent shadows against the sharp, arrogant radiance of a cold pink aura.
-
 ## Summary
 </div>
+
+
+Inspired by Goku Black’s Super Saiyan Rosé form, this theme evokes a lethal elegance that balances ashen, silent shadows against the sharp, arrogant radiance of a cold pink aura.
 
 ![python code in action with rozejin](example/python-example.png)
 
