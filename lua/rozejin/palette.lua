@@ -15,23 +15,19 @@ local M = {
 	bg_info = "#24333a",
 	bg_hint = "#25322d",
 	bg_reference = "#353039",
-
 	fg = "#eadfe2",
 	fg_soft = "#c8b7bb",
 	fg_faint = "#a08c91",
 	fg_nc = "#7d6f73",
-
 	rose = "#ff9fc0",
 	rose_soft = "#e7b9c9",
 	red = "#de6f8f",
-	orange = "#d8a07b",
+	orange = "#e0956a",
 	yellow = "#e5d1a6",
-	green = "#bfd2c0",
+	green = "#a8c9aa",
 	aqua = "#aac3cf",
 	blue = "#b7c5de",
-	purple = "#c9b3d9",
-
+	purple = "#d4aaee",
 	none = "NONE",
 }
-
 return M
